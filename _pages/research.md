@@ -21,7 +21,7 @@ Works in Progress
 
 ***
 
-Climate Change Beliefs, Payment for Ecosystem Services, and Adaptation: Evidence from Cocoa Farmers in Ghana (with Yunyu Shu)
+Climate change beliefs, payment for ecosystem services, and adaptation: evidence from cocoa farmers in Ghana. (with Yunyu Shu)
 
 <a href="https://pedl.cepr.org/content/propagation-taste-climate-resilience-evidence-cocoa-value-chain-ghana-0" target="_blank">[PEDL]</a>
 <a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a>
@@ -34,7 +34,6 @@ Won't you hire your neighboring firm owner? Experimental evidence on the benefit
 
 Willingness to pay for credit purchase: evidence from solar demand of small firms in Kenya. (with Yunyu Shu)
 
-<a href="https://jzhangg.github.io/_pages/game_v2_240314.html" target="_blank">[Two-way BDM game]</a>
 
 
 
