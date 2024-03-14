@@ -30,4 +30,11 @@ Climate Change Beliefs, Payment for Ecosystem Services, and Adaptation: Evidence
 
 Won't you hire your neighboring firm owner? Experimental evidence on the benefits of small firm consolidation. (with Morgan Hardy and Jamie McCasland)
 
+*** 
+
+Willingness to pay for credit purchase: evidence from solar demand of small firms in Kenya. (with Yunyu Shu)
+
+<a href="" target="_blank">[Two-way BDM game]</a>
+
+
 
