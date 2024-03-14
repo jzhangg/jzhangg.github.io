@@ -34,7 +34,7 @@ Won't you hire your neighboring firm owner? Experimental evidence on the benefit
 
 Willingness to pay for credit purchase: evidence from solar demand of small firms in Kenya. (with Yunyu Shu)
 
-<a href="" target="_blank">[Two-way BDM game]</a>
+<a href="https://jzhangg.github.io/_pages/game_v2_240314.html" target="_blank">[Two-way BDM game]</a>
 
 
 
