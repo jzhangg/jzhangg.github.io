@@ -31,7 +31,7 @@
 </head>
 <body>
 
-<h1>Game on Willingness-to-pay for Solar</h1>
+<h1>Game for Solar</h1>
 <h2>In each cell, X represents the price of the solar lamp is X KES, to be paid today.</h2>
 <h2>Please indicate if you are willing to purchase the solar lamp at each cash price.</h2>
 
@@ -87,8 +87,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const blueButton = document.createElement('button');
         blueButton.classList.add('color-button');
         blueButton.innerText = 'Yes';
-        blueButton.style.backgroundColor = 'blue';
-        blueButton.addEventListener('click', () => setColor(index, 'blue'));
+        blueButton.style.backgroundColor = 'cyan';
+        blueButton.addEventListener('click', () => setColor(index, 'cyan'));
 
         colorButtons.appendChild(redButton);
         colorButtons.appendChild(blueButton);
