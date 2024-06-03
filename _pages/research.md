@@ -13,7 +13,7 @@ Working Papers
 Returns to capital for whom? Experimental evidence from small firm owners and workers in Ghana. (with Morgan Hardy and Jamie McCasland)
 
 <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&e=1&dl=0" target="_blank">[Working paper]</a> 
-<a href="https://www.dropbox.com/s/6keyircu63siz3d/SEEFA_ODDO_slides.pdf" target="_blank">[ODDO/LSE Slides]</a>
+<a href="https://www.dropbox.com/s/6keyircu63siz3d/SEEFA_ODDO_slides.pdf" target="_blank">[ODDO/LSE slides]</a>
 
 
 Works in Progress
