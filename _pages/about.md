@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ---
 
-Welcome! My name is Jiayue Zhang. I am a 4th-year PhD candidate in Economics at Brown University. My research is in development economics, with a focus on environment, finance and firms. Most of my work involves field experiment and primary data collection in Ghana and Kenya.
+Welcome! My name is Jiayue Zhang. I am a 5th-year PhD candidate in Economics at Brown University. My research is in development economics, with a focus on environment, finance and firms. Most of my work involves field experiment and primary data collection in Ghana and Kenya.
 
 Contact Information
 ---
