@@ -22,7 +22,7 @@ Works in Progress
 
 Climate change beliefs, payment for ecosystem services, and adaptation: evidence from cocoa farmers in Ghana. (with Yunyu Shu)
 <a href="https://pedl.cepr.org/content/propagation-taste-climate-resilience-evidence-cocoa-value-chain-ghana-0" target="_blank">[PEDL]</a>
-<a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a>
+<a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a> <a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/understanding-climate-change-beliefs-and-adaptation" target = "_blank">[IGC blog]</a>
 
 ***
 
