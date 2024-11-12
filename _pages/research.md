@@ -12,7 +12,7 @@ Working Papers
 
 Returns to capital for whom? Experimental evidence from small firm owners and workers in Ghana. Revise and resubmit at *American Economic Journal: Applied Economics*. (with Morgan Hardy and Jamie McCasland) 
 <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">[Working paper]</a> 
-<a href="https://www.dropbox.com/s/6keyircu63siz3d/SEEFA_ODDO_slides.pdf" target="_blank">[Development Impact Blog]</a>
+<a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT" target="_blank">[Development Impact Blog]</a>
 
 
 Works in Progress
