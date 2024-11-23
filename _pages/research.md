@@ -10,7 +10,7 @@ Working Papers
 
 ***
 
-Returns to capital for whom? Experimental evidence from small firm owners and workers in Ghana. Revise and resubmit at *American Economic Journal: Applied Economics*. (with Morgan Hardy and Jamie McCasland) 
+Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana. Revise and resubmit at *American Economic Journal: Applied Economics*. (with Morgan Hardy and Jamie McCasland) 
 <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">[Working paper]</a> 
 <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Another%20new%20working%20paper%20by%20Hardy%20et%20al.%20(2024)" target="_blank">[Development Impact Blog]</a>
 
@@ -32,7 +32,7 @@ The Unseen Economy. (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio)
 
 *** 
 
-Willingness to pay for credit purchase: evidence from solar demand of small firms in Kenya. (with Wycliffe Oluoch and Yunyu Shu)
+Willingness to Pay for Credit Purchase: Evidence from Solar Demand of Small Firms in Kenya. (with Wycliffe Oluoch and Yunyu Shu)
 <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">[AEA Registry]</a>
 
 ***
@@ -42,6 +42,6 @@ Information Nudge on Social and Private Benefit, and Impact on Adaptation. (with
 
 ***
 
-Won't you hire your neighboring firm owner? Experimental evidence on the benefits of small firm consolidation. (with Morgan Hardy and Jamie McCasland)
+Won't You Hire Your Neighboring Firm Wwner? Experimental Evidence on the Benefits of Small Firm Consolidation. (with Morgan Hardy and Jamie McCasland)
 
 
