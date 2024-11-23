@@ -20,7 +20,8 @@ Works in Progress
 
 ***
 
-Climate change beliefs, payment for ecosystem services, and adaptation: evidence from cocoa farmers in Ghana. (with Yunyu Shu)
+Informed Climate Adaptation: Input and Output Subsidies for Shaded Cocoa. (with Yunyu Shu)
+<a href="https://drive.google.com/file/d/1u6Wlka3kd7fydY9Fuhm0SWG5GP3sPsDr/view?usp=drive_link" target="_blank">[Working Paper]</a> 
 <a href="https://pedl.cepr.org/content/propagation-taste-climate-resilience-evidence-cocoa-value-chain-ghana-0" target="_blank">[PEDL]</a>
 <a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a> <a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/understanding-climate-change-beliefs-and-adaptation" target = "_blank">[IGC blog]</a>
 
