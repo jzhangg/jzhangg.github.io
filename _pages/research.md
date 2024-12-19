@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h1 id="-workingpapers-">
-	<center>Working Papers </center>
+Working Papers
 </h1>
 <hr>
 
@@ -65,7 +65,7 @@ Works in Progress
 
 
 <h1 id="-priorworks-">
-	<center>Works Prior to Graduate School </center>
+Works Prior to Graduate School
 </h1>
 <hr>
 
