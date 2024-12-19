@@ -29,7 +29,8 @@ Working Papers
  <div id="cocoa" style="display: none; text-align: justify; line-height: 1.2"><small> With growing climate risks, agro-environmental policies seek to protect the environment while reducing poverty by incentivizing climate adaptation. We study how information shapes adaptation under different subsidy schemes for cocoa farmers in Ghana, where forest tree planting for shade is encouraged as an adaptation strategy. Conducting a lab-in-the-field experiment, we compare the impacts of an information intervention under an input subsidy for planting forest trees and an output subsidy for producing cocoa beans from shaded farms. While farmers receiving the information in both subsidy groups plant more forest trees than their subsidy-only counterparts, the increase is higher under the output subsidy than the input subsidy even though the information leads both groups to similarly update their beliefs about the benefits of shade. We rationalize the differential effects of information with a model in which beliefs about rainfall uncertainty and shade benefits affect ex ante input decisions. Counterfactuals show that output subsidy has greater potential to drive adaptation than input when beliefs are reasonably correct. We validate the lab results by distributing tree seedlings, finding consistent treatment effects on the number of seedlings requested and obtained.</small><br><br></div>
 
 
-***
+
+<hr>
 
 <h1 id="-workingprogress-">
 Works in Progress
@@ -65,7 +66,7 @@ Works in Progress
 <p>
 
 
-***
+<hr>
 
 <h1 id="-priorworks-">
 Works Prior to Graduate School
