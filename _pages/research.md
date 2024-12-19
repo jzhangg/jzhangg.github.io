@@ -30,8 +30,7 @@ Working Papers
 
 
 
-<hr>
-
+<br />
 <h1 id="-workingprogress-">
 Works in Progress
 </h1>
@@ -66,8 +65,10 @@ Works in Progress
 <p>
 
 
-<hr>
 
+
+
+<br />
 <h1 id="-priorworks-">
 Works Prior to Graduate School
 </h1>
