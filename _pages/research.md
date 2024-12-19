@@ -38,15 +38,17 @@ With growing climate risks, agro-environmental policies seek to protect the envi
 Works in Progress
 ------
 
+*** 
+
+Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya . (with Wycliffe Oluoch and Yunyu Shu)
+(draft coming soon)
+<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">[PEDL]</a> 
+<a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">[AEA Registry]</a>
+
 ***
 
 The Unseen Economy. (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
 (draft available upon request)
-
-*** 
-
-Willingness to Pay for Credit Purchase: Evidence from Solar Demand of Small Firms in Kenya. (with Wycliffe Oluoch and Yunyu Shu)
-<a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">[AEA Registry]</a>
 
 ***
 
@@ -56,5 +58,22 @@ Information Nudge on Social and Private Benefit, and Impact on Adaptation. (with
 ***
 
 Won't You Hire Your Neighboring Firm Wwner? Experimental Evidence on the Benefits of Small Firm Consolidation. (with Morgan Hardy and Jamie McCasland)
+
+***
+
+
+
+Works Prior to Graduate School
+------
+
+***
+
+Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread. 2019. Journal of Regulatory Economics. (with Alfred Wong and Mayu Kikuchi)
+<a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">[Journal Manuscript]
+
+***
+
+Breakdown of Covered Interest Parity: Mystery or Myth?. 2018. (with Alfred Wong)
+<a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">[BIS Working Paper]</a>
 
 
