@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -35,7 +35,7 @@ Works in Progress
 </h1>
 <hr>
 
-<p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya</strong> (with Wycliffe Oluoch and Yunyu Shu)
+<p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with Wycliffe Oluoch and Yunyu Shu)
 <br>
 <small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]<small>
 <br>
@@ -47,6 +47,7 @@ Works in Progress
 (draft available upon request)
 <br>
 <p>
+
 
 
 
