@@ -16,7 +16,6 @@ Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Wo
 
 <details>
 <summary>Abstract</summary>
-<br>
 We document capital contributions from workers to their employers in a representative sample of small firms. We separately conduct a two-sided experiment in a sample of small employers, randomizing cash transfers to firm owners or a randomly selected worker. Transfers to either party increase firm profits in equal magnitude. Treated owners purchase additional business assets; treated workers purchase business assets that are used in their employing firm and experience wage increases. Our findings challenge the assumption of a separation of labor and capital in firms, with widespread implications for measurement and for understanding the nature of firms in our context.
 </details>
 
@@ -68,7 +67,7 @@ Works Prior to Graduate School
 
 ***
 
-Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread. 2019. Journal of Regulatory Economics. (with Alfred Wong and Mayu Kikuchi)
+Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread. 2019. *Journal of Regulatory Economics*. (with Alfred Wong and Mayu Kikuchi)
 <a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">[Journal Manuscript]
 
 ***
