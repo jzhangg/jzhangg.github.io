@@ -42,6 +42,13 @@ Works in Progress
 <p>
 
 
+<p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with Wycliffe Oluoch and Yunyu Shu)
+<br>
+<small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]<small>
+<br>
+<p>
+
+
 
 <p><strong>The Unseen Economy.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
 (draft available upon request)
