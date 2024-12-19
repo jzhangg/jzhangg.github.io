@@ -60,7 +60,7 @@ Works in Progress
 
 
 
-<p><strong>Won't You Hire Your Neighboring Firm Wwner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with Morgan Hardy and Jamie McCasland)
+<p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with Morgan Hardy and Jamie McCasland)
 <br>
 <p>
 
