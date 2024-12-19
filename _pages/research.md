@@ -33,7 +33,7 @@ author_profile: true
 
 
 <h1 id="-workingprogress-">
-	<center>Works in Progress </center>
+Works in Progress
 </h1>
 <hr>
 
