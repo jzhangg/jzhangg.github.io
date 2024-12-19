@@ -37,14 +37,9 @@ Works in Progress
 
 <p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with Wycliffe Oluoch and Yunyu Shu)
 <br>
-<small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]<small>
 <p>
 
 
-<p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with Wycliffe Oluoch and Yunyu Shu)
-<br>
-<small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]<small>
-<p>
 
 
 
