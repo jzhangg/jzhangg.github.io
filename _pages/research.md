@@ -37,6 +37,7 @@ Works in Progress
 
 <p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya.</strong> (with Wycliffe Oluoch and Yunyu Shu)
 <br>
+<small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]</small>
 <p>
 
 
@@ -53,7 +54,7 @@ Works in Progress
 
 <p><strong>Information Nudge on Social and Private Benefit, and Impact on Adaptation.</strong> (with Ming Li, Yunyu Shu and Jia Xiang)
   <br>
-  <small>[<a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a>]<small>
+  <small>[<a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a>]</small>
   <p>
 
 
@@ -77,7 +78,7 @@ Works Prior to Graduate School
 
 <p><strong>Breakdown of Covered Interest Parity: Mystery or Myth?.</strong> (with Alfred Wong). 2018. 
 <br>
-  <small>[<a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">BIS Working Paper</a>]<small>
+  <small>[<a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">BIS Working Paper</a>]</small>
   <p>
 
 
