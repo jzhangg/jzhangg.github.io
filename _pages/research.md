@@ -5,8 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-Working Papers
-------
+
+<h1 id="-workingpapers-">
+	<center>Working Papers </center>
+</h1>
+<hr>
 
 ***
 
@@ -29,48 +32,62 @@ Working Papers
 
 
 
-Works in Progress
-------
+<h1 id="-workingprogress-">
+	<center>Works in Progress </center>
+</h1>
+<hr>
 
-*** 
+<p><strong>Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya</strong> (with Wycliffe Oluoch and Yunyu Shu)
+    <br>
+  <small>[<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]<small>
+<p>
 
-Credit Constraint and Green Energy Adoption: Evidence from Small Firms in Kenya . (with Wycliffe Oluoch and Yunyu Shu)
-(draft coming soon)
-<a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">[PEDL]</a> 
-<a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">[AEA Registry]</a>
 
-***
 
-The Unseen Economy. (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
+<p><strong>The Unseen Economy.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
 (draft available upon request)
-
-***
-
-Information Nudge on Social and Private Benefit, and Impact on Adaptation. (with Ming Li, Yunyu Shu and Jia Xiang)
-<a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">[AEA Registry]</a>
-
-***
-
-Won't You Hire Your Neighboring Firm Wwner? Experimental Evidence on the Benefits of Small Firm Consolidation. (with Morgan Hardy and Jamie McCasland)
-
-***
+<br>
+<p>
 
 
 
-Works Prior to Graduate School
-------
+<p><strong>Information Nudge on Social and Private Benefit, and Impact on Adaptation.</strong> (with Ming Li, Yunyu Shu and Jia Xiang)
+  <br>
+  <small>[<a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a>]<small>
+  <br>
+  <p>
 
-***
 
-Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread. 2019. *Journal of Regulatory Economics*. (with Alfred Wong and Mayu Kikuchi)
-<a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">[Journal Manuscript]
 
-***
+<p><strong>Won't You Hire Your Neighboring Firm Wwner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with Morgan Hardy and Jamie McCasland)
+<br>
+<p>
+
+
+
+<h1 id="-priorworks-">
+	<center>Works Prior to Graduate School </center>
+</h1>
+<hr>
+
+
+<p><strong>Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread.</strong> (with Alfred Wong and Mayu Kikuchi). 2019. <em>Journal of Regulatory Economics</em>. 
+<br>
+  <small>[<a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">Journal Manuscript</a>]</small>
+  <br>
+  <p>
+
+<p><strong>Breakdown of Covered Interest Parity: Mystery or Myth?.</strong> (with Alfred Wong). 2018. 
+<br>
+  <small>[<a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">BIS Working Paper</a>]<small>
+  <br>
+  <p>
+
+
+
 
 
 <script> function visib(id) { var x = document.getElementById(id); if (x.style.display === "block") { x.style.display = "none"; } else { x.style.display = "block"; } } </script>
 
-Breakdown of Covered Interest Parity: Mystery or Myth?. 2018. (with Alfred Wong)
-<a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">[BIS Working Paper]</a>
 
 
