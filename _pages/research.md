@@ -10,14 +10,13 @@ Working Papers
 
 ***
 
-Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana. Revise and resubmit at *American Economic Journal: Applied Economics*. (with Morgan Hardy and Jamie McCasland) 
-<a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">[Working paper]</a> 
-<a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Another%20new%20working%20paper%20by%20Hardy%20et%20al.%20(2024)" target="_blank">[Development Impact Blog]</a>
+<p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong> Revise and resubmit at *American Economic Journal: Applied Economics*. (with Morgan Hardy and Jamie McCasland) 
+<br>
+  <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Another%20new%20working%20paper%20by%20Hardy%20et%20al.%20(2024)" target="_blank">Development Impact Blog</a>] </small>
+<p>
+  
+<div id="seefa" style="display: none; text-align: justify; line-height: 1.2"><small> We document capital contributions from workers to their employers in a representative sample of small firms. We separately conduct a two-sided experiment in a sample of small employers, randomizing cash transfers to firm owners or a randomly selected worker. Transfers to either party increase firm profits in equal magnitude. Treated owners purchase additional business assets; treated workers purchase business assets that are used in their employing firm and experience wage increases. Our findings challenge the assumption of a separation of labor and capital in firms, with widespread implications for measurement and for understanding the nature of firms in our context.</small><br><br></div>
 
-<details>
-<summary>Abstract</summary>
-We document capital contributions from workers to their employers in a representative sample of small firms. We separately conduct a two-sided experiment in a sample of small employers, randomizing cash transfers to firm owners or a randomly selected worker. Transfers to either party increase firm profits in equal magnitude. Treated owners purchase additional business assets; treated workers purchase business assets that are used in their employing firm and experience wage increases. Our findings challenge the assumption of a separation of labor and capital in firms, with widespread implications for measurement and for understanding the nature of firms in our context.
-</details>
 
 ***
 
