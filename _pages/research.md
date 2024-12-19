@@ -24,8 +24,10 @@ We document capital contributions from workers to their employers in a represent
 
 Informed Climate Adaptation: Input and Output Subsidies for Shaded Cocoa. (with Yunyu Shu)
 <a href="https://drive.google.com/file/d/1u6Wlka3kd7fydY9Fuhm0SWG5GP3sPsDr/view?usp=drive_link" target="_blank">[Working Paper]</a> 
+<a href="https://blogs.worldbank.org/en/impactevaluations/how-information-transforms-climate-adaptation-through-different-?" target="_blank">[Development Impact Blog]</a>
 <a href="https://pedl.cepr.org/content/propagation-taste-climate-resilience-evidence-cocoa-value-chain-ghana-0" target="_blank">[PEDL]</a>
-<a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a> <a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/understanding-climate-change-beliefs-and-adaptation" target = "_blank">[IGC blog]</a>
+<a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/understanding-climate-change-beliefs-and-adaptation" target = "_blank">[IGC blog]</a> 
+<a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">[AEA Registry]</a>
 
 <details>
 <summary>Abstract</summary>
