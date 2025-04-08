@@ -13,7 +13,7 @@ Working Papers
 
 <p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong>  (with Morgan Hardy and Jamie McCasland). Revise and resubmit at <em> American Economic Journal: Applied Economics</em>. 
 <br>
-  <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Capital%20is%20fluid%20between%20a%20firm%20and%20its%20workers" target="_blank">Development Impact Blog</a> ] </small>
+  <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Capital%20is%20fluid%20between%20a%20firm%20and%20its%20workers" target="_blank">Development Impact Blog</a> | <a href="https://www.nber.org/conferences/development-economics-fall-2024#:~:text=%2C%20Brown%20University-,View%20abstract,-We%20document%20capital" target="_blank">NBER Development Economics</a> ] </small>
 <p>
 
 
