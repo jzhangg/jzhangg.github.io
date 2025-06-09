@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV <a href="https://jzhangg.github.io/files/CV_Jiayue_Zhang_202411.pdf" target="_blank">here</a>
+You can download my CV <a href="https://jzhangg.github.io/files/CV_Jiayue_Zhang.pdf" target="_blank">here</a>
 
 
