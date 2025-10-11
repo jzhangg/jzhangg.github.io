@@ -13,11 +13,8 @@ Job Market Paper
 
 <p><strong>Credit and Demand for Green Energy.</strong> (with Yunyu Shu and Wycliffe Oluoch)
 <br>
- <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/8isq08mkh15vl5zd2ytx9/Zhang_2025_Credit-and-demand-for-green-energy.pdf?rlkey=g3gfvtfxvg8fmuacw8osw0j05&st=xl46co8a&dl=0" target="_blank">Working Paper</a> |  <a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a> ]</small>
+ <small>[ <a href="#/" onclick="visib('solar')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/8isq08mkh15vl5zd2ytx9/Zhang_2025_Credit-and-demand-for-green-energy.pdf?rlkey=g3gfvtfxvg8fmuacw8osw0j05&st=xl46co8a&dl=0" target="_blank">Working Paper</a> |  <a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a> ]</small>
 <p>
-
-
-
   
 <div id="solar" style="display: none; text-align: justify; line-height: 1.2"><small> Adoption of green technology has been low in low-income countries, despite its crucial role in sustainable development. While providing credit increases demand, it changes the payment structure and adds another dimension of price elasticity. This paper evaluates firm demand for small-scale solar sold on credit by experimentally eliciting discrete choices over different down payments and repayments. We show that price elasticity for credit purchases is mainly driven by upfront cost elasticity rather than repayment elasticity. When offered the flexibility to tailor a subsidy to be applied to the down payment or repayment, adopters almost unanimously choose to reduce the upfront cost. Despite the same de facto subsidy structure, this tailored subsidy scheme positively selects less liquidity-constrained adopters and results in more usage and more operational days by firms.
 </small><br><br></div>
@@ -58,7 +55,7 @@ Works in Progress
 <hr>
 
 
-<p><strong>The Unseen Economy.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
+<p><strong>Beyond Informality: The Importance of Residential-Based Businesses.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
 (draft available upon request)
 <br>
 <p>
