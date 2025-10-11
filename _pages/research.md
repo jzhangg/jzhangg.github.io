@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h1 id="-workingpapers-">
-Working Papers
+Job Market Paper
 </h1>
 <hr>
 
