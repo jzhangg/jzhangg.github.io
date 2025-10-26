@@ -70,7 +70,7 @@ Works in Progress
 
 <p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation</strong> (with Bo-Yeon Jang)
 <br>
-<small>[ <a href="#/" onclick="visib('flood')">Abstract</a>]</small>
+<small>[ <a href="#/" onclick="visib('flood')">Abstract</a> ]</small>
 <p>
  
  <div id="flood" style="display: none; text-align: justify; line-height: 1.2"><small> This study disentangles the valuation of information shocks, insurance costs, and flood-resistant building regulations in housing prices of flood-prone properties following the National Flood Insurance Program (NFIP). Participation in the NFIP entails a bundle including estimates of flood risk (information shocks), insurance at subsidized cost against that risk (insurance costs), and protective community regulations on construction in flood-prone areas (building regulations). By leveraging updates of flood maps as well as a policy change eliminating the grandfathering of favorable insurance premia,  we separate out the initial information shock of being classified into flood-prone areas from capitalization of insurance costs. Zooming into transactions in which insurance premia were grandfathered in, we further identify the effect of protective building regulations. Explicit estimates of these three underlying forces are crucial to understanding the impact of NFIP, which will only become more relevant as flood risk intensifies with climate change.</small><br><br></div>
