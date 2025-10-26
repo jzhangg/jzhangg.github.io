@@ -68,7 +68,7 @@ Works in Progress
 
 
 
-<p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation</strong> (with Bo-Yeon Jang)
+<p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation.</strong> (with Bo-Yeon Jang)
 <br>
 <small>[ <a href="#/" onclick="visib('flood')">Abstract</a> ]</small>
 <p>
