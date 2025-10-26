@@ -55,21 +55,36 @@ Works in Progress
 <hr>
 
 
-<p><strong>Beyond Informality: The Importance of Residential-Based Businesses.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
-(draft available upon request)
-<br>
-<p>
-
 
 
 
 <p><strong>Less is More; Worse is Better.</strong> (with Ming Li, Yunyu Shu and Jia Xiang)
   <br>
-  <small>[ <a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a> ]</small>
+  <small>[ <a href="#/" onclick="visib('info')">Abstract</a> | <a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a> ]</small>
   <p>
 
+   <div id="info" style="display: none; text-align: justify; line-height: 1.2"><small> Information campaigns are a major policy tool for promoting climate change adaptation. Such policies often face contestation because the benefits of adaptive actions are distributed unevenly across scales: local actors prioritize private resilience while policymakers emphasize collective, long-term social gains. We examine whether information framed around private versus social benefits shifts adaptation behaviors, and whether credibility-enhancing caveats alter uptake, in the context of cocoa farming in Ghana where agroforestry is a viable but under-adopted adaptation strategy. We find that, while information on private and social benefits are separately effective in driving adaptation, combining them does not necessarily increase the information impact. We also show that providing information on the downside risks of the adaptation strategy on top of its benefits increases information credibility and subsequently boosts adoption of the adaptation strategy.</small><br><br></div>
 
 
+
+
+<p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation</strong> (with Bo-Yeon Jang)
+<br>
+<small>[ <a href="#/" onclick="visib('flood')">Abstract</a>]<small>
+<p>
+ 
+ <div id="flood" style="display: none; text-align: justify; line-height: 1.2"><small> This study disentangles the valuation of information shocks, insurance costs, and flood-resistant building regulations in housing prices of flood-prone properties following the National Flood Insurance Program (NFIP). Participation in the NFIP entails a bundle including estimates of flood risk (information shocks), insurance at subsidized cost against that risk (insurance costs), and protective community regulations on construction in flood-prone areas (building regulations). By leveraging updates of flood maps as well as a policy change eliminating the grandfathering of favorable insurance premia,  we separate out the initial information shock of being classified into flood-prone areas from capitalization of insurance costs. Zooming into transactions in which insurance premia were grandfathered in, we further identify the effect of protective building regulations. Explicit estimates of these three underlying forces are crucial to understanding the impact of NFIP, which will only become more relevant as flood risk intensifies with climate change.</small><br><br></div>
+
+
+
+
+<p><strong>Beyond Informality: The Importance of Residential-Based Businesses.</strong> (with Morgan Hardy, Gisella Kagy and Monica Lambon-Quayefio) 
+(draft coming soon)
+<br>
+<p>
+
+
+ 
 <p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with Morgan Hardy and Jamie McCasland)
 <br>
 <p>
