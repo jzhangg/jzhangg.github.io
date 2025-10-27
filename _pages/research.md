@@ -98,14 +98,15 @@ Works Prior to Graduate School
 <hr>
 
 
+<p><strong>Breakdown of Covered Interest Parity: Mystery or Myth?.</strong> (with Alfred Wong). 2018. 
+<br>
+  <small>[ <a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">BIS Working Paper</a> | <a href="https://cepr.org/voxeu/columns/decade-after-lehman-puzzles-and-challenges-international-monetary-system" target="_blank">VoxEU</a>  ]</small>
+  <p>
+  
+
 <p><strong>Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread.</strong> (with Alfred Wong and Mayu Kikuchi). 2019. <em>Journal of Regulatory Economics</em>. 
 <br>
   <small>[ <a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">Journal Manuscript</a> ]</small>
-  <p>
-
-<p><strong>Breakdown of Covered Interest Parity: Mystery or Myth?.</strong> (with Alfred Wong). 2018. 
-<br>
-  <small>[ <a href="https://www.bis.org/publ/bppdf/bispap96_g.pdf" taget="_blank">BIS Working Paper</a> ]</small>
   <p>
 
 
