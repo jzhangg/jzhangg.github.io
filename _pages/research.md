@@ -81,11 +81,15 @@ Works in Progress
 <p><strong>Beyond Informality: The Importance of Residential-Based Businesses.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a>, <a href="https://gisellakagy.github.io/" target="_blank">Gisella Kagy</a> and <a href="https://scholar.google.com/citations?user=ePAJ3YAAAAAJ&hl=en" target="_blank">Monica Lambon-Quayefio</a>) 
 (draft coming soon)
 <br>
+ <small>[ <a href="#/" onclick="visib('unseen')">Abstract</a> ]</small>
 <p>
+
+ <div id="unseen" style="display: none; text-align: justify; line-height: 1.2"><small> Existing enterprise literature emphasizes the formal-informal enterprise dichotomy, with traditional informal enterprise listing protocols targeting businesses operating in non-residential business structures. In a suburb outside Accra, Ghana, we implement an inclusive enterprise listing strategy that targets not only formal and informal non-residential structure businesses but also residential (household-based) businesses. We find that residential businesses are economically significant, comprising 47% of fixed structure businesses and 36% of output from such businesses within our study area in May 2022. We track businesses identified through our listing over a period of two years, showing meaningful persistence of these residential structure businesses; 76% are stiloperating and almost none switch structure type by the time of our final data collection. Residential structure businesses are also meaningfully distinct from non-residential structure businesses across multiple firm, owner, and household characteristics within, suggesting unique drivers and consequences of structure. Differences are often larger between residential and non-residential structure businesses than formal and informal businesses. Our study draws attention to a data gap in most existing commonly-avalable enterprise data sources and highlights the potential benefits of refined categorization in future research to deepen our understanding of both formal and informal enterprises in low-income countries.</small><br><br></div>
 
 
  
-<p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with Morgan Hardy and Jamie McCasland)
+<p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>)
+ (experiment concluded)
 <br>
 <p>
 
