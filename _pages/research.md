@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 
+
+
+<br />
 <h1 id="-workingpapers-">
-Job Market Paper
+Working Papers
 </h1>
 <hr>
 
@@ -20,12 +23,6 @@ Job Market Paper
 </small><br><br></div>
 
 
-
-<br />
-<h1 id="-workingpapers-">
-Working Papers
-</h1>
-<hr>
 
 <p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong>  (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>). Revise and resubmit at <em> American Economic Journal: Applied Economics</em>. 
 <br>
