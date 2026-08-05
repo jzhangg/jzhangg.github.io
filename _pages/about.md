@@ -13,7 +13,7 @@ About Me
 
 Welcome! My name is Jiayue Zhang. I am a Postdoctoral Scholar at the Energy & Environment Lab, University of Chicago. My research interests are development and environmental economics. Most of my work involves field experiment and primary data collection in Ghana and Kenya. 
 
-I received my PhD in Economics from Brown University, Master of Science in Finance from the Chinese University of Hong Kong, and Bachelor in Economics and Finance from the University of Hong Kong. Prior to Brown, I worked as a Manager at Hong Kong Monetary Authority.
+I received my PhD in Economics from Brown University, Master of Science in Finance from the Chinese University of Hong Kong, and Bachelor in Economics and Finance from the University of Hong Kong. Prior to graduate school, I worked as a Manager at Hong Kong Monetary Authority.
 
 
 
