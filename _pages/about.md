@@ -20,5 +20,5 @@ I received my PhD in Economics from Brown University, Master of Science in Finan
 Contact Information
 ---
 
-jiayue_zhang[at]brown.edu
+zhangjiayue[at]uchicago.edu
 
