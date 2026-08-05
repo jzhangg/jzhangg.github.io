@@ -45,6 +45,16 @@ Working Papers
 
 
 
+<p><strong>Beyond Informality: The Importance of Residential-based Business.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a>, <a href="https://gisellakagy.github.io/" target="_blank">Gisella Kagy</a> and <a href="https://scholar.google.com/citations?user=ePAJ3YAAAAAJ&hl=en" target="_blank">Monica Lambon-Quayefio</a>) 
+<br>
+ <small>[ <a href="#/" onclick="visib('unseen')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/blk9ssd9je196fkjxdk76/Beyond_Informality_Hardy_Kagy_LambonQuayefio_Zhang.pdf?rlkey=md868m196rka6govjbmv8ilvf&dl=0" target="_blank">Working Paper</a> ]</small>
+<p>
+
+
+
+ <div id="unseen" style="display: none; text-align: justify; line-height: 1.2"><small> Informal businesses operating from homes are typically excluded from traditional enterprise surveys and undelineated in informal sector analysis. We use nationally representative household survey data from Sub-Saharan Africa and original inclusive enterprise panel data from Ghana to show that these “residential-based informal enterprises” (RIEs) constitute a significant share of the economy, exhibit high persistence, and are significantly differentiated across many observable characteristics. Female entrepreneurs disproportionately sort into RIEs, a gap widening with each child. Conversely, male-owned RIEs positively select on observable profit margins. A simple model demonstrates how gender-asymmetric care burdens drive gendered patterns in location choice despite gender-neutral production.</small><br><br></div>
+
+
 <br />
 <h1 id="-workingprogress-">
 Works in Progress
@@ -75,13 +85,6 @@ Works in Progress
 
 
 
-<p><strong>Beyond Informality: The Importance of Residential-Based Businesses.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a>, <a href="https://gisellakagy.github.io/" target="_blank">Gisella Kagy</a> and <a href="https://scholar.google.com/citations?user=ePAJ3YAAAAAJ&hl=en" target="_blank">Monica Lambon-Quayefio</a>) 
-(draft coming soon)
-<br>
- <small>[ <a href="#/" onclick="visib('unseen')">Abstract</a> ]</small>
-<p>
-
- <div id="unseen" style="display: none; text-align: justify; line-height: 1.2"><small> Existing enterprise literature emphasizes the formal-informal enterprise dichotomy, with traditional informal enterprise listing protocols targeting businesses operating in non-residential business structures. In a suburb outside Accra, Ghana, we implement an inclusive enterprise listing strategy that targets not only formal and informal non-residential structure businesses but also residential (household-based) businesses. We find that residential businesses are economically significant, comprising 47% of fixed structure businesses and 36% of output from such businesses within our study area in May 2022. We track businesses identified through our listing over a period of two years, showing meaningful persistence of these residential structure businesses; 76% are stiloperating and almost none switch structure type by the time of our final data collection. Residential structure businesses are also meaningfully distinct from non-residential structure businesses across multiple firm, owner, and household characteristics within, suggesting unique drivers and consequences of structure. Differences are often larger between residential and non-residential structure businesses than formal and informal businesses. Our study draws attention to a data gap in most existing commonly-avalable enterprise data sources and highlights the potential benefits of refined categorization in future research to deepen our understanding of both formal and informal enterprises in low-income countries.</small><br><br></div>
 
 
  
