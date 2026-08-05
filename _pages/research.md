@@ -16,7 +16,7 @@ Working Papers
 
 <p><strong>Credit and Demand for Green Energy: Evidence from Small Firms in Kenya.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://pedl.cepr.org/content/wycliffe-oluoch" target="_blank">Wycliffe Oluoch</a>)
 <br>
- <small>[ <a href="#/" onclick="visib('solar')">Abstract</a> | <a href="https://jzhangg.github.io/files/Zhang_CreditDemandSolar.pdf" target="_blank">Working Paper</a> |  <a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL Blog</a>  | <a href="https://www.econthatmatters.com/2025/12/how-household-responsibilities-limit-small-firms-green-investments-guest-post-by-jiayue-zhang/" target="_blank">Economics That Really Matters Blog</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a>]</small>
+ <small>[ <a href="#/" onclick="visib('solar')">Abstract</a> | <a href="https://jzhangg.github.io/files/Zhang_CreditDemandSolar.pdf" target="_blank">Working Paper</a> |  <a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL Blog</a>  | <a href="https://www.econthatmatters.com/2025/12/how-household-responsibilities-limit-small-firms-green-investments-guest-post-by-jiayue-zhang/" target="_blank">Economics That Really Matters Blog</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a> ]</small>
 <p>
   
 <div id="solar" style="display: none; text-align: justify; line-height: 1.2"><small> Limited access to credit remains a major barrier to business growth in sub-Saharan Africa, yet systematic evidence on how credit frictions shape firm investment decisions is scarce. Adoption decisions only reflect present values of expected adoption benefits net of credit contract payments, which masks the implicit cost of borrowing. This paper evaluates firm demand for solar sold on credit by eliciting discrete choices over contracts, and experimentally compares the impact of down payment subsidies versus f lexible subsidies for down payment or repayment. We find that demand is primarily driven by sensitivity to upfront costs rather than future repayments. When offered the flexibility to allocate the subsidy to the down payment or the repayment, nearly all adopters choose to reduce the upfront cost. Despite the same de facto subsidy structure, this tailored subsidy scheme positively selects less liquidity-constrained adopters and leads to greater solar usage and more operational days.
@@ -101,6 +101,11 @@ Works Prior to Graduate School
 </h1>
 <hr>
 
+<p><strong>Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread.</strong> (with Alfred Wong and Mayu Kikuchi). 2019. <em>Journal of Regulatory Economics</em>. 
+<br>
+  <small>[ <a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">Journal Manuscript</a> ]</small>
+  <p>
+  
 
 <p><strong>Breakdown of Covered Interest Parity: Mystery or Myth?.</strong> (with Alfred Wong). 2018. 
 <br>
@@ -108,10 +113,7 @@ Works Prior to Graduate School
   <p>
   
 
-<p><strong>Risk of Window Dressing: Quarter-end Spikes in the Japanese Yen Libor-OIS Spread.</strong> (with Alfred Wong and Mayu Kikuchi). 2019. <em>Journal of Regulatory Economics</em>. 
-<br>
-  <small>[ <a href="https://link.springer.com/article/10.1007/s11149-019-09393-w" target="_blank">Journal Manuscript</a> ]</small>
-  <p>
+
 
 
 
