@@ -14,7 +14,7 @@ Working Papers
 </h1>
 <hr>
 
-<p><strong>Credit and Demand for Green Energy: Evidence from Small Firms in Kenya.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://pedl.cepr.org/content/wycliffe-oluoch" target="_blank">Wycliffe Oluoch</a>)
+<p><strong>Credit and Demand for Green Energy: Evidence from Small Firms in Kenya.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://pedl.cepr.org/content/wycliffe-oluoch" target="_blank">Wycliffe Oluoch</a>).
 <br>
  <small>[ <a href="#/" onclick="visib('solar')">Abstract</a> | <a href="https://jzhangg.github.io/files/Zhang_CreditDemandSolar.pdf" target="_blank">Working Paper</a> |  <a href="https://pedl.cepr.org/content/blackouts-and-green-energy-adoption-evidence-kenya-0" target="_blank">PEDL Blog</a>  | <a href="https://www.econthatmatters.com/2025/12/how-household-responsibilities-limit-small-firms-green-investments-guest-post-by-jiayue-zhang/" target="_blank">Economics That Really Matters Blog</a> | <a href="https://www.socialscienceregistry.org/trials/13802" target="_blank">AEA Registry</a> ]</small>
 <p>
@@ -24,7 +24,7 @@ Working Papers
 
 
 
-<p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong>  (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>). Revise and resubmit at <em> American Economic Journal: Applied Economics</em>. 
+<p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong>  (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>). Revise and resubmit at <em> American Economic Journal: Applied Economics.</em> 
 <br>
   <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/zbp2s8shdw1v2xay0ff6r/ReturnsToCapitalForWhom.pdf?rlkey=j7nfhmgha9zuyuss8e9mxayaw&dl=0" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Capital%20is%20fluid%20between%20a%20firm%20and%20its%20workers" target="_blank">Development Impact Blog</a> | <a href="https://www.nber.org/conferences/development-economics-fall-2024#:~:text=%2C%20Brown%20University-,View%20abstract,-We%20document%20capital" target="_blank">NBER Development Economics</a> ] </small>
 <p>
@@ -36,7 +36,7 @@ Working Papers
 
 
 
-<p><strong> Informed Climate Adaptation: Input and Output Subsidies for Shaded Cocoa.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>)
+<p><strong> Informed Climate Adaptation: Input and Output Subsidies for Shaded Cocoa.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>).
   <br>
   <small>[ <a href="#/" onclick="visib('cocoa')">Abstract</a> | <a href="https://drive.google.com/file/d/1u6Wlka3kd7fydY9Fuhm0SWG5GP3sPsDr/view?usp=drive_link" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/how-information-transforms-climate-adaptation-through-different-?" target="_blank">Development Impact Blog</a> | <a href="https://pedl.cepr.org/content/propagation-taste-climate-resilience-evidence-cocoa-value-chain-ghana-0" target="_blank">PEDL</a> | <a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/understanding-climate-change-beliefs-and-adaptation" target = "_blank">IGC blog</a> | <a href="https://www.socialscienceregistry.org/trials/11145" target="_blank">AEA Registry</a> ]</small>
  <p>
@@ -45,7 +45,7 @@ Working Papers
 
 
 
-<p><strong>Beyond Informality: The Importance of Residential-based Business.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a>, <a href="https://gisellakagy.github.io/" target="_blank">Gisella Kagy</a> and <a href="https://scholar.google.com/citations?user=ePAJ3YAAAAAJ&hl=en" target="_blank">Monica Lambon-Quayefio</a>) 
+<p><strong>Beyond Informality: The Importance of Residential-based Business.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a>, <a href="https://gisellakagy.github.io/" target="_blank">Gisella Kagy</a> and <a href="https://scholar.google.com/citations?user=ePAJ3YAAAAAJ&hl=en" target="_blank">Monica Lambon-Quayefio</a>). 
 <br>
  <small>[ <a href="#/" onclick="visib('unseen')">Abstract</a> | <a href="https://www.dropbox.com/scl/fi/blk9ssd9je196fkjxdk76/Beyond_Informality_Hardy_Kagy_LambonQuayefio_Zhang.pdf?rlkey=md868m196rka6govjbmv8ilvf&dl=0" target="_blank">Working Paper</a> ]</small>
 <p>
@@ -65,7 +65,7 @@ Works in Progress
 
 
 
-<p><strong>Less is More; Worse is Better.</strong> (with <a href="https://sites.google.com/view/mingli1" target="_blank">Ming Li</a>, <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://sites.google.com/view/jiaxiang" target="_blank">Jia Xiang</a>)
+<p><strong>Less is More; Worse is Better.</strong> (with <a href="https://sites.google.com/view/mingli1" target="_blank">Ming Li</a>, <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://sites.google.com/view/jiaxiang" target="_blank">Jia Xiang</a>).
   <br>
   <small>[ <a href="#/" onclick="visib('info')">Abstract</a> | <a href="https://www.socialscienceregistry.org/trials/13129" target="_blank">AEA Registry</a> ]</small>
   <p>
@@ -75,7 +75,7 @@ Works in Progress
 
 
 
-<p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation.</strong> (with <a href="https://boyeon-jang.com/" target="_blank">Bo-Yeon Jang</a>)
+<p><strong>Information, Insurance, and the Shadow Price of (No) Adaptation.</strong> (with <a href="https://boyeon-jang.com/" target="_blank">Bo-Yeon Jang</a>).
 <br>
 <small>[ <a href="#/" onclick="visib('flood')">Abstract</a> ]</small>
 <p>
@@ -88,7 +88,7 @@ Works in Progress
 
 
  
-<p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>)
+<p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>).
  (experiment concluded)
 <br>
 <p>
