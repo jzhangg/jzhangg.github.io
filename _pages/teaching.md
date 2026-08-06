@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+
+* Instructor, Brown University, ECON1830 Behavioral Finance
+  + Spring 2026
 * Instructor, Brown University, ECON1960 Honors Tutorial for Economics Majors (Lab)
   + <a href= "https://jzhangg.github.io/teaching/econ1960_fall2024" >Fall 2024</a>
 * Teaching Assistant, Brown University, ECON1390 Inequality of Income, Wealth, and Health in the United States
