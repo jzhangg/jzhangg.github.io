@@ -99,7 +99,7 @@ Works in Progress
 
 
 
-<p><strong>Climate change, artisanal mining, and cocoa production dynamics: Evidence from granular data.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>).
+<p><strong>Climate Change, Artisanal Mining, and Cocoa Production Dynamics: Evidence from Granular Data.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>).
  (data collection in progress)
 <br>
  <small>[ <a href="#/" onclick="visib('passbook')">Abstract</a> ]</small>
