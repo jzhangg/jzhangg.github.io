@@ -26,7 +26,7 @@ Working Papers
 
 <p><strong> Returns to Capital for Whom? Experimental Evidence from Small Firm Owners and Workers in Ghana.</strong>  (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>). Revise and resubmit at <em> American Economic Journal: Applied Economics.</em> 
 <br>
-  <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924863" target="_blank">Working Paper</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Capital%20is%20fluid%20between%20a%20firm%20and%20its%20workers" target="_blank">Development Impact Blog</a> | <a href="https://www.nber.org/conferences/development-economics-fall-2024#:~:text=%2C%20Brown%20University-,View%20abstract,-We%20document%20capital" target="_blank">NBER Development Economics</a> ] </small>
+  <small>[ <a href="#/" onclick="visib('seefa')">Abstract</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924863" target="_blank">Revised Draft</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/what-firm-again-fluidity-firm-boundaries-developing-country-firms?cid=SHR_BlogSiteShare_EN_EXT#:~:text=Capital%20is%20fluid%20between%20a%20firm%20and%20its%20workers" target="_blank">Development Impact Blog</a> | <a href="https://www.nber.org/conferences/development-economics-fall-2024#:~:text=%2C%20Brown%20University-,View%20abstract,-We%20document%20capital" target="_blank">NBER Development Economics</a> ] </small>
 <p>
 
 
@@ -91,7 +91,33 @@ Works in Progress
 <p><strong>Won't You Hire Your Neighboring Firm Owner? Experimental Evidence on the Benefits of Small Firm Consolidation.</strong> (with <a href="https://sites.google.com/a/nyu.edu/morganhardy/home" target="_blank">Morgan Hardy</a> and <a href="https://sites.google.com/site/jamiemccasland/" target="_blank">Jamie McCasland</a>).
  (experiment concluded)
 <br>
+ <small>[ <a href="#/" onclick="visib('mrrogers')">Abstract</a> ]</small>
 <p>
+
+
+ <div id="mrrogers" style="display: none; text-align: justify; line-height: 1.2"><small> Can firms run by  innate entrepreneurs grow by absorbing labor from neighboring necessity entrepreneurs through the inter-firm labor network that connects small firms in a low-income-country labor market? We test this by randomly incentivizing a candidate network tie among 1,429 micro-enterprise owners in Aburi, Ghana. They are randomly matched into 710 same-product-category pairs, and 361 of them are offered a daily wage subsidy equivalent to about a day's average baseline profit for either partner to work for the other for up to 30 days over a six-week window. The subsidy activates the assigned tie at a high rate (45.5 percent of treated pairs) and raises each owner's labor-network degree by 14--15 percentage points during the program against a near-zero control mean; a full-sample, fuzzy-matched labor network shows aggregate density rising over the same window and  partially reverting once the subsidy ends. The new tie does not dissolve either firm, i.e., almost none of the partner's firm close during treatment. But it becomes a durable channel for production- and information-sharing including tools, skills, outsourcing, and customer-referral connections. None of this network growth raises average pair-level net sales, gross profits, or profits. Yet the null conceals a gendered pattern in how the tie gets used. Among pairs with at least one male owner, treatment lowers the standard deviation of pair profits, an effect absent among female-only pairs.</small><br><br></div>
+
+
+
+<p><strong>Climate change, artisanal mining, and cocoa production dynamics: Evidence from granular data.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a> and <a href="https://ruozi-song.com/" target="_blank">Ruozi Song</a>).
+ (data collection in progress)
+<br>
+ <small>[ <a href="#/" onclick="visib('passbook')">Abstract</a> ]</small>
+<p>
+
+
+ <div id="passbook" style="display: none; text-align: justify; line-height: 1.2"><small> This project examines how climate shocks and artisanal mining affect cocoa farmers in Ghana, focusing on how they adjust trading behaviours to smooth income over time. By analysing digitised high-frequency trading records and geospatial data, the research informs policies that enhance smallholder resilience to environmental and economic shocks.</small><br><br></div>
+
+
+ 
+
+<p><strong>Fear of Missing Out or Fear of Being Replaced? Beliefs and AI Adoption in Chinese Manufacturing.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>).
+<br>
+ <small>[ <a href="#/" onclick="visib('ai_adopt')">Abstract</a> ]</small>
+<p>
+
+
+ <div id="ai_adopt" style="display: none; text-align: justify; line-height: 1.2"><small> We study how competing fears of falling behind peers in AI adoption and being displaced by AI shape firms' and workers' responses to technological change. Combining surveys with corporate AI usage logs in a Chinese manufacturing export cluster, we quantify misperceptions about peers' AI adoption and returns, perceived job displacement risks, and their implications for AI adoption and economic outcomes.</small><br><br></div>
 
 
 
