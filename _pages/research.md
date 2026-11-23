@@ -111,7 +111,7 @@ Works in Progress
 
  
 
-<p><strong>Fear of Missing Out or Fear of Being Replaced? Beliefs and AI Adoption in Chinese Manufacturing.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>).
+<p><strong>Fear of Missing Out or Fear of Being Replaced? Beliefs and AI Adoption in Supply Chain.</strong> (with <a href="https://www.yunyu-shu.com/" target="_blank">Yunyu Shu</a>).
 <br>
  <small>[ <a href="#/" onclick="visib('ai_adopt')">Abstract</a> ]</small>
 <p>
